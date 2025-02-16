@@ -1,0 +1,9 @@
+numpy
+tensorflow
+keras
+tqdm
+matplotlib
+opencv-python
+ipywidgets
+extra-keras-datasets
+jupyter
